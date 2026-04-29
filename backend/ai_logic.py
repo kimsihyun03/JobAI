@@ -8,7 +8,7 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 
 # Gemini API 키 설정
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBlfWjdPtizAYE_NyAnRt0P08GULpr_U3s"
+os.environ["GOOGLE_API_KEY"] = "press yor key"
 
 class JobAI:
     def __init__(self):
